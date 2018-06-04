@@ -1,0 +1,6 @@
+6744ea8815a55928f01bef9d4e37a60f  BalanceSheet.xls
+40be319c9a993fb44935fc491125e8c8  CashFlowStatement.xls
+743f424c23ac8897ac3cbd56df678a73  CompanyOperation.xls
+a044b7f5e633a76a2126174241910583  IncomeStatement.xls
+84de4bbf7296678aec487f27e7aa8b3e  MacroIndustry.xls
+bb0826797c51f28e0f2c20f1462718a6  MarketData.csv
