@@ -1,1 +1,15 @@
-a3cc398b5810511c5a7cc1e909326a95  data.tar.bz
+ff3ae904e92281fc9b20b20e7ca5a0ae  BalanceSheet-Bank.csv
+8408db8add7a4db3b55a67f1a6409f72  BalanceSheet-GeneralBusiness.csv
+03a13296fb67737b371501a4bbf3aca2  BalanceSheet-Insurance.csv
+0f33536a79bc2bf196ff3431d188c57d  BalanceSheet-Securities.csv
+e4a8751bef213e2da2ebe79a760a12e5  CashFlowStatement-Bank.csv
+cc5c4a7c18487a8c4e9de63c07fdec0d  CashFlowStatement-GeneralBusiness.csv
+63152d0e8f398b23a7ee2cf6b42e45ef  CashFlowStatement-Insurance.csv
+96bb3da4242b0cc7561cd474c2a023fe  CashFlowStatement-Securities.csv
+fc4992ff48b9f7f7dc88874c222612ea  CompanyOperation.csv
+6c78d22a3476b260b8945e220fc2ef69  IncomeStatement-Bank.csv
+5152beef9e793e368080c7879c1ff413  IncomeStatement-GeneralBusiness.csv
+c1db91d424c55b08231fab23a3b42fc3  IncomeStatement-Insurance.csv
+78517ff40854746401fa06d5633e86b4  IncomeStatement-Securities.csv
+25e3f090187a01cd7d746442c7b4e6d0  MacroIndustry.csv
+a1bc5585b4c38680921bba209f5bff5b  MarketData.csv
