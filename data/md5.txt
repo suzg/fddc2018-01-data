@@ -1,15 +1,1 @@
-d51aeed8189cc2b5472943a6efb473d3  BalanceSheet-Bank.csv.gz
-bdee2c88215e6fc78edf08cc9646c041  BalanceSheet-GeneralBusiness.csv.gz
-697545a95a0dd8f3c31fd6ee9b1dae1c  BalanceSheet-Insurance.csv.gz
-9902f640efa4e48737c7f370696154d2  BalanceSheet-Securities.csv.gz
-b37690bd7b3340b8e8408d0c7f267be4  CashFlowStatement-Bank.csv.gz
-eb3170a96a6ef5b2bc785dfee7da39aa  CashFlowStatement-GeneralBusiness.csv.gz
-63ce6291bd85d0806d78f44ffd062ee1  CashFlowStatement-Insurance.csv.gz
-72ee2b303761a0ff4b60e60706657c00  CashFlowStatement-Securities.csv.gz
-06d5ebb5da9d58ec9dedda0d81bed6a2  CompanyOperation.csv.gz
-e673f506ae856b2ad7e2618302cf82a0  IncomeStatement-Bank.csv.gz
-c954a62e75b34f4d5245a2a4d051b851  IncomeStatement-GeneralBusiness.csv.gz
-117756ba70f88b102c96a566db10ef23  IncomeStatement-Insurance.csv.gz
-87a31339cf2939cc81ad34e0797ccb91  IncomeStatement-Securities.csv.gz
-21158dd2c55e1ba0ecc12bc1794952a7  MacroIndustry.csv.gz
-4484d13c14eb3f9918b4135078562a1e  MarketData.csv.gz
+a3cc398b5810511c5a7cc1e909326a95  data.tar.bz
